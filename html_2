@@ -3,5 +3,6 @@
 <body style=background-color:aqua>
 <h1 style=text-align:center>MY INFO</h1>
 <blockquote style=font-family:Courier, monospace>NAME:          ISHA PRIYANKA <br> AGE: 18 <br> DATE OF BIRTH(DD/MM/YYYY): 20/08/2003 <br> NATIVE: TELANGANA<br> RESIDENCE: TAMIL NADU <br> STUDYING: BTECH FIRST YEAR <br> PLACE OF STUDY: VIT(AMARAVATHI CAMPUS) <br> COURSE: CSE with specialization in AI and ML <br> HOBBIES: ONLINE GAMES , WATCHING KC DRAMAS   </blockquote>
+<div style="background-color: black;color: white;"><img src="nature.jpeg" style="width: 200px; height: 270px;float: right;padding-right: 150px;"></div>
 </body>
 </html>
