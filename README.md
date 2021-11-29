@@ -1,2 +1,1 @@
-# hello-world
-my first repository
+ISHA PRIYANKA REDDY
