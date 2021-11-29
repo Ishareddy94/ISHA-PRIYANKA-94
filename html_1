@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body style=background-color:aqua>
+
+<h1 style="text-align:center;color:rgb(168, 41, 41);font-family: cursive;border: 5px solid blue;background-color: indianred;">My favourite Drama</h1>
+<p style="color:red;">It is Tale of the nine tailed.</p>
+<p>It's one of the best and most lovable drama across the world.</p>
+<img src="img_drama.jpg" width="500" height="400">
+<a href="https://www.proprofs.com/">Visit propofs</a>
+
+</body>
+</html>
